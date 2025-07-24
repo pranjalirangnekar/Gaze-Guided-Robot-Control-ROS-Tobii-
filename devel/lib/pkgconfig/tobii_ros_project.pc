@@ -1,0 +1,8 @@
+prefix=/home/rbemotion17/tobii_ws/devel
+
+Name: tobii_ros_project
+Description: Description of tobii_ros_project
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy roscpp rosbridge_library rosbridge_server rosapi std_msgs

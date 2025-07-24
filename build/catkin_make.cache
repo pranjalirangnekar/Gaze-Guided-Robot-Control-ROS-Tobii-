@@ -1,0 +1,2 @@
+tobii_ros_project
+-DCATKIN_DEVEL_PREFIX=/home/rbemotion17/tobii_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rbemotion17/tobii_ws/install -G Unix Makefiles
