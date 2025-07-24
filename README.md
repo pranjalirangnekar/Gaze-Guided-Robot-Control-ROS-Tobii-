@@ -1,22 +1,8 @@
 # Gaze-Guided Robot Control (ROS & Tobii)
 
-<img width="1155" height="735" alt="image" src="https://github.com/user-attachments/assets/24b0e2b9-f8a4-42d0-81ab-4f6991367835" />
+<img width="6000" height="4000" alt="image" src="https://github.com/user-attachments/assets/375e785f-7e0e-410e-a046-3fa555ab3939" />
 
 
-## 🔗 Table of Contents
-1. [Project Overview](#project-overview)  
-2. [Key Features](#key-features)  
-3. [My Contributions](#my-contributions)  
-4. [System Architecture](#system-architecture)  
-5. [Prerequisites](#prerequisites)  
-6. [Installation & Setup](#installation--setup)  
-7. [Launching the System](#launching-the-system)  
-8. [API Reference](#api-reference)  
-9. [Performance & Evaluation](#performance--evaluation)  
-10. [Future Directions](#future-directions)  
-11. [License](#license)  
-
----
 
 ## 🎯 Project Overview
 **Gaze-Guided Robot Control** streams live gaze data from Tobii Pro Glasses 3 into a ROS Noetic ecosystem, letting operators point and “click” in 3D by simply looking. Demonstrates end-to-end hardware–software integration, a robust Python-based ROS API, and a React GUI for real-time visualization.
@@ -40,7 +26,7 @@
 
 ---
 
-## 💼 My Contributions
+## 💼 Contributions
 - **ROS Development**  
   - Architected and wrote all Python nodes  
   - Crafted ROS `launch` files to coordinate drivers, bridge, GUI  
@@ -158,6 +144,7 @@ Then open your browser at **`http://localhost:3000`**.
 > Detailed logs & charts in `docs/performance/`
 
 ---
+<img width="1155" height="735" alt="image" src="https://github.com/user-attachments/assets/24b0e2b9-f8a4-42d0-81ab-4f6991367835" />
 
 ## 🚀 Future Directions
 
