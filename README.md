@@ -144,7 +144,8 @@ Then open your browser at **`http://localhost:3000`**.
 > Detailed logs & charts in `docs/performance/`
 
 ---
-<img width="1155" height="735" alt="image" src="https://github.com/user-attachments/assets/24b0e2b9-f8a4-42d0-81ab-4f6991367835" />
+<img width="735" height="300" alt="image" src="https://github.com/user-attachments/assets/d2fb1c34-a9b0-4bef-8aa0-e73d2a004940" />
+
 
 ## 🚀 Future Directions
 
